@@ -1,4 +1,4 @@
-﻿<div align="center">
+<div align="center">
 
 # Hi there, I'm Aleksandr Weber 👋
 ### .NET Backend Engineer | High-Load APIs & Distributed Systems
