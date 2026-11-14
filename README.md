@@ -1,7 +1,7 @@
-<div align="center">
+﻿<div align="center">
 
-# Hi there👋
-### Senior .NET Backend Engineer | High-Load Systems & Distributed Cloud Architecture
+# Hi there, I'm Aleksandr Weber 👋
+### .NET Backend Engineer | High-Load APIs & Distributed Systems
 📍 *Amsterdam, Netherlands*
 
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/yandereye)
@@ -9,7 +9,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/legend-asp)
 
 <p align="center">
-  I design and engineer resilient, high-throughput backend services, event-driven microservices, and FinTech payment pipelines using <b>C# & .NET 9</b>. Specialized in RFC-compliant security protocols, distributed caching with Redis Lua, and cloud containerization.
+  I design and engineer resilient backend services, event-driven APIs, and FinTech payment pipelines using <b>C# & .NET 9</b>. Focused on RFC-compliant security protocols, distributed caching with Redis, and cloud containerization.
 </p>
 
 ---
@@ -88,5 +88,5 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=legend-asp&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
 
 ---
-💬 *Open for high-impact backend contracts, architecture consulting, and distributed systems engineering.*
+💬 *Open for backend engineering contracts, APIs, and cloud microservices.*
 </div>
