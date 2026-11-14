@@ -34,6 +34,18 @@
 
 <table>
   <tr>
+    <td colspan="2">
+      <h3 align="center">📡 NexusPulse</h3>
+      <p align="center"><b>Distributed Observability & AI-Driven Incident Response Platform</b></p>
+      <ul>
+        <li><b>Tech:</b> .NET 9, PostgreSQL 17, Redis, SignalR, Keyed Polly v8, System.Threading.Channels, Gemini AI, React 19, Testcontainers</li>
+        <li><b>Resilience & Concurrency:</b> Host-isolated Circuit Breakers via <code>ResiliencePipelineProvider</code>, lock-free event ingestion with bounded Channels, and Redis distributed deduplication locks</li>
+        <li><b>AI & Realtime:</b> Automated Root Cause Analysis via Gemini Structured Outputs, real-time WebSocket telemetry streaming, and interactive Telegram incident remediation</li>
+      </ul>
+      <p align="center"><a href="https://github.com/legend-asp/NexusPulse"><b>Explore NexusPulse →</b></a></p>
+    </td>
+  </tr>
+  <tr>
     <td width="50%">
       <h3 align="center">💳 SubFlow</h3>
       <p align="center"><b>FinTech SaaS Subscription & Billing Web API</b></p>
@@ -81,12 +93,6 @@
 
 <div align="center">
 
-### 📊 GitHub Activity & Insights
-
-<img src="https://github-readme-stats.vercel.app/api?username=legend-asp&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=legend-asp&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-
----
 💬 *Open for high-impact backend contracts, architecture consulting, and distributed systems engineering.*
+
 </div>
