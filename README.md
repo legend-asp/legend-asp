@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Aleksandr Weber 👋
+# Hi there👋
 ### Senior .NET Backend Engineer | High-Load Systems & Distributed Cloud Architecture
 📍 *Amsterdam, Netherlands*
 
