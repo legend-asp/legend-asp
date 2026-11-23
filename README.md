@@ -4,7 +4,7 @@
 ### Middle .NET Backend Engineer | High-Load Systems & Distributed Cloud Architecture
 📍 *Amsterdam, Netherlands*
 
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/yandereye)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/legendehp)
 [![Portfolio](https://img.shields.io/badge/NPZ_Connect-000000?style=for-the-badge&logo=wireguard&logoColor=white)](https://buy.npzconnect.site)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/legend-asp)
 
